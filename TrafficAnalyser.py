@@ -1,7 +1,5 @@
 #Author: SHANE ROWELL FERNANDO
 #Date: 23/11/2024
-#Student ID: w2121295
-#IIT Student No. 20241087
 
 # Task A: Input Validation
 def is_leap_year(year): #This function validates if the year(YYYY) entered by the user is a leap year.
